@@ -1,0 +1,23 @@
+div#navbar{
+margin-right: 15em;
+margin-top: 1em;
+}
+
+div#title{
+    margin-left: 1em;
+}
+
+
+
+div#hero{
+    padding-left: 5em;
+    padding-bottom: 3em;
+    border: 2px solid;
+}
+
+
+
+html{
+    padding-left: 4em;
+    padding-right: 4em;
+}
